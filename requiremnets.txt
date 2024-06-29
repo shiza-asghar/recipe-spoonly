@@ -1,0 +1,10 @@
+huggingface_hub
+ultralytics
+numpy==1.26.0
+inference-sdk
+git+https://github.com/THU-MIG/yolov10.git
+supervisely
+roboflow
+streamlit
+google-generativeai
+python-dotenv
